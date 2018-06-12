@@ -55,5 +55,5 @@
   insert into shopmessage (name,address,jpgurl,avgScore,allCommentNum,avgPrice)
   values (#{name}, #{address}, #{jpgurl}, #{avgScore}, #{allCommentNum}, #{avgPrice})
 </insert>
-  
+  <!-- 这是用来测试GITHUP的注释 -->
 </mapper>
