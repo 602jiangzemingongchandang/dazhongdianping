@@ -56,4 +56,5 @@
   values (#{name}, #{address}, #{jpgurl}, #{avgScore}, #{allCommentNum}, #{avgPrice})
 </insert>
   <!-- 这是用来测试GITHUP的注释 -->
+  <!-- 这是用来第二次测试GITHUP的注释 -->
 </mapper>
